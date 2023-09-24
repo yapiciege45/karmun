@@ -8,7 +8,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="tr">
-      <body className='min-h-screen bg-white relative w-full overflow-x-hidden'>{children}</body>
+      <body className='min-h-[calc(100dvh)] bg-white relative w-full overflow-x-hidden'>{children}</body>
     </html>
   )
 }
