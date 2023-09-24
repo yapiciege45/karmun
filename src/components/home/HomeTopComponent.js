@@ -15,8 +15,8 @@ export const HomeTopComponent = () => {
               height={128}
               alt="Logo of the website"
             />
-            <p className='uppercase text-white text-6xl mt-5 font-bold'>KARTAL ANADOLU</p>
-            <p className='uppercase text-white text-5xl mt-2 font-light'>
+            <p className='uppercase text-white text-3xl sm:text-4xl md:text-6xl mt-5 font-bold'>KARTAL ANADOLU</p>
+            <p className='uppercase text-white text-2xl sm:text-3xl md:text-5xl mt-2 font-light'>
               <Typewriter 
                 words={['MODEL UNITED NATIONS']}
                 typeSpeed={70}
@@ -25,7 +25,7 @@ export const HomeTopComponent = () => {
         </div>
       </div>
       <div className='absolute z-20 bottom-2 left-1/2 flex flex-col' style={{transform: 'translate(-50%,-50%)'}}>
-            <p className='uppercase text-white text-lg mt-2 font-light'>
+            <p className='uppercase text-white text-xs md:text-lg mt-2 font-light'>
               <Typewriter 
                 words={['Do you want to see more?',"Let's scroll!","You need to be EXCITED!"]}
                 typeSpeed={70}
