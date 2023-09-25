@@ -16,7 +16,7 @@ export const NavbarComponent = () => {
 
   return (
     <>
-      <header className='fixed top-0 h-20 bg-black/80 flex justify-center items-center w-full z-50'>
+      <header className='fixed top-0 h-20 bg-[#340000]/80 flex justify-center items-center w-full z-50'>
         <div className='h-20 flex justify-between items-center w-10/12'>
           <div>
             <Image 
@@ -34,7 +34,7 @@ export const NavbarComponent = () => {
             <Link href='/' className=' uppercase text-white text-xl hover:opacity-50 transition-all'>CONTACT</Link>
             <div onMouseEnter={() => setConferenceDropdown(true)} onMouseLeave={() => setConferenceDropdown(false)} className='relative'>
               <Link href='/' className=' uppercase text-white text-xl hover:opacity-50 transition-all'>CONFERENCE</Link>
-              <div className={`${conferenceDropdown ? 'absolute' : 'hidden'} right-0 bg-gray-900 flex flex-col w-50 rounded-xl border border-white items-center p-3`}>
+              <div className={`${conferenceDropdown ? 'absolute' : 'hidden'} right-0 bg-[#340000] flex flex-col w-50 rounded-xl border border-white items-center p-3`}>
                 <Link href='/' className=' uppercase text-white text-xl hover:opacity-50 transition-all'>VENUE</Link>
                 <Link href='/' className=' uppercase text-white text-xl hover:opacity-50 transition-all mt-3'>SCHEDULE</Link>
                 <Link href='/' className=' uppercase text-white text-xl hover:opacity-50 transition-all mt-3'>ACCOMMODATION</Link>
@@ -48,7 +48,7 @@ export const NavbarComponent = () => {
           </div>
         </div>
       </header>
-      <div className={`absolute lg:hidden top-0  w-full h-[calc(100dvh)] bg-gray-900 z-50 transition-all`} style={{right: `${mobileNavIsShown ? '0px' : '1000px'}`}}>
+      <div className={`absolute lg:hidden top-0  w-full h-[calc(100dvh)] bg-[#340000] z-50 transition-all`} style={{right: `${mobileNavIsShown ? '0px' : '1000px'}`}}>
         <div className='h-20 w-full flex items-center justify-end px-5'>
           <IconX color="white" size={48} onClick={() => setMobileNavIsShown(false)} />
         </div>
