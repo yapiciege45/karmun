@@ -15,8 +15,9 @@ export const HomeTopComponent = () => {
               height={128}
               alt="Logo of the website"
             />
-            <p className='uppercase text-white text-3xl sm:text-4xl md:text-6xl mt-5 font-bold'>KARTAL ANADOLU</p>
-            <p className='uppercase text-white text-2xl sm:text-3xl md:text-5xl mt-2 font-light'>
+            <p className='uppercase text-white text-3xl sm:text-4xl md:text-6xl mt-5 font-bold'>KARTAL ANATOLIAN</p>
+            <p className='uppercase text-white text-3xl sm:text-4xl md:text-6xl font-bold'>HIGH SCHOOL</p>
+            <p className='uppercase text-white text-2xl sm:text-3xl md:text-5xl mt-5 font-light'>
               <Typewriter 
                 words={['MODEL UNITED NATIONS']}
                 typeSpeed={70}
