@@ -33,9 +33,9 @@ export const HomeTopComponent = () => {
                 loop
               />
             </p>
-            <div className='w-full flex justify-center animate-bounce'>
+            <Link href="/#committees" className='w-full flex justify-center animate-bounce'>
               <IconChevronDown color="white" />
-            </div>
+            </Link>
       </div>
     </section>
   )
