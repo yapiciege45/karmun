@@ -48,7 +48,7 @@ export const NavbarComponent = () => {
           </div>
         </div>
       </header>
-      <div className={`absolute lg:hidden top-0  w-full h-[calc(100dvh)] bg-[#340000] z-50 transition-all`} style={{right: `${mobileNavIsShown ? '0px' : '1000px'}`}}>
+      <div className={`fixed lg:hidden top-0  w-full h-[calc(100dvh)] bg-[#340000] z-50 transition-all`} style={{right: `${mobileNavIsShown ? '0px' : '1000px'}`}}>
         <div className='h-20 w-full flex items-center justify-end px-5'>
           <IconX color="white" size={48} onClick={() => setMobileNavIsShown(false)} />
         </div>
