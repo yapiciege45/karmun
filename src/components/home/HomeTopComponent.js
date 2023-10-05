@@ -6,7 +6,7 @@ import { Typewriter } from 'react-simple-typewriter'
 
 export const HomeTopComponent = () => {
   return (
-    <div className="w-full h-[calc(100dvh)] bg-[url('/home-bg.jpeg')] bg-center relative">
+    <section id="home" className="w-full h-[calc(100dvh)] relative">
       <div className='absolute top-0 left-0 h-[calc(100dvh)] bg-black/50 w-full z-10 flex justify-center items-center'>
         <div className='flex flex-col items-center w-full'>
             <Image 
@@ -37,6 +37,6 @@ export const HomeTopComponent = () => {
               <IconChevronDown color="white" />
             </div>
       </div>
-    </div>
+    </section>
   )
 }
