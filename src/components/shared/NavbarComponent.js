@@ -55,19 +55,20 @@ export const NavbarComponent = () => {
         <div className='flex flex-col items-center'>
             <Image 
               src="/karmun_beyaz.png"
+              onClick={() => setMobileNavIsShown(false)}
               width={64}
               height={64}
               alt="Logo of the website"
             />
-          <a href='/#home' className=' uppercase text-white text-xl mt-3'>HOME</a>
-          <a href='/#our_team' className=' uppercase text-white text-xl mt-3'>OUR TEAM</a>
-          <a href='/#committees' className=' uppercase text-white text-xl mt-3'>COMMITTEES</a>
-          <Link href='/faq' className=' uppercase text-white text-xl mt-3'>FAQ</Link>
-          <a href='/#contact' className=' uppercase text-white text-xl mt-3'>CONTACT</a>
-          <Link href='/conference' className=' uppercase text-white text-xl mt-3'>CONFERENCE</Link>
-          <Link href='/venue' className=' uppercase text-white text-xl mt-3'>VENUE</Link>
-          <Link href='/schedule' className=' uppercase text-white text-xl mt-3'>SCHEDULE</Link>
-          <Link href='/accommodation' className=' uppercase text-white text-xl mt-3'>ACCOMMODATION</Link>
+          <a href='/#home' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>HOME</a>
+          <a href='/#our_team' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>OUR TEAM</a>
+          <a href='/#committees' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>COMMITTEES</a>
+          <Link href='/faq' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>FAQ</Link>
+          <a href='/#contact' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>CONTACT</a>
+          <Link href='/conference' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>CONFERENCE</Link>
+          <Link href='/venue' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>VENUE</Link>
+          <Link href='/schedule' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>SCHEDULE</Link>
+          <Link href='/accommodation' className=' uppercase text-white text-xl mt-3' onClick={() => setMobileNavIsShown(false)}>ACCOMMODATION</Link>
         </div>
       </div>
     </>
