@@ -16,7 +16,7 @@ export const QuestionComponent = ({ question, answer }) => {
             <IconChevronDown size={24} color='white' />
         </div>
         <div className={`${isOpen ? 'p-4' : 'max-h-0'} transition-all overflow-hidden`}>
-            <p className='text-white text-sm md:text-md'>Deneme</p>
+            <p className='text-white text-sm md:text-md'>{answer}</p>
         </div>
     </div>
   )
