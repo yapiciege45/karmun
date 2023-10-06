@@ -9,15 +9,6 @@
         "description": "<p style='font-size:24px;font-weight:700;'>Agenda Items:</p><p style='font-size:18px;'>1 - Tackling the Child Labour in Sub- Saharan region</p><p style='font-size:18px;'>2 - Tackling down the hunger and poverty being caused by the rapid growth of population in Asia</p><p style='margin-top:24px;'>Progress against child labour appears to have stalled in Africa. Child labour went up in Sub-Saharan Africa over the 2012 to 2016 period, in contrast to continued progress elsewhere in the world, and despite the targeted policies implemented by African governments to combat child labour. It is likely that the retrogression was driven in important part by broader economic and demographic forces acting against government efforts, although this matter would require further research. The Africa region has also been among those most affected by situations of state fragility and crisis, which in turn heighten the risk of child labour. In this years Karmun the delegates are going to be stepping in the shoes of politicians and construct solutions to liberate the children from the chains of hazardous Labour.</p>"
     },
     {
-        "name": "AUGUST COUP",
-        "slug": "august-coup",
-        "title": "Cabinet August Coup",
-        "link": "/committee/august-coup",
-        "image":"/home/committees/coup.png",
-        "image_inside":"/home/committees-inside/coup.jpeg",
-        "description": "<p style='font-size:24px;font-weight:700;'>Open Agenda:</p><p style='margin-top:24px;'>The USSR turned into a boiling pot after Mikhail Gorbachev became the General Secretary of the CPSU, he started reformation efforts to move into a more democratic era, which angered many hardline communists. They opposed Gorbachev's reform program, were angry at the loss of control over Eastern European states, and were fearful of the USSR's New Union Treaty which was on the verge of being signed. It is now up to the officials of the USSR to decide the Soviet Unions' fate in KARMUN’23.</p>"
-    },
-    {
         "name": "DISEC",
         "title": "DISEC",
         "slug": "disec",
@@ -25,15 +16,6 @@
         "image":"/home/committees/disec.png",
         "image_inside":"/home/committees-inside/disec.jpeg",
         "description": "<p style='font-size:24px;font-weight:700;'>Agenda Items:</p><p style='font-size:18px;'>1 - Dismantling the weapons of mass destruction</p><p style='font-size:18px;'>2 - Establishing stricter regulations against the increasing demand for nuclear energy</p><p style='margin-top:24px;'>The Disarmament and International Security Committee (DISEC) is one of six main committees at the General Assembly of the United Nations. It is a committee which aims to increase security and supports demilitarization in all countries also it offers solutions for security, disarmament and global security around the world. The DISEC committee is also responsible for promoting, establishing and maintaining global peace. The first agenda item focuses on finding ways to dismantling the weapons of mass destruction. Delegates will discuss the implications of such decisions and hopefully come across a resolution that all the nations of the world can agree upon. The second agenda item is about establishing stricter regulations against the increasing demand for nuclear energy. For this agenda item delegates are expected to find an effective and permanent solution to the problem at hand</p>"
-    },
-    {
-        "name": "Civil War",
-        "slug": "sw",
-        "title": "JCC",
-        "link": "/committee/sw",
-        "image":"/home/committees/sw.png",
-        "image_inside":"/home/committees-inside/sw.jpeg",
-        "description": "<p style='margin-top:24px;'>Joint Crisis Committees (more commonly known as JCC) are committees that are not your typical GA committee. They are intense, urgent, spontaneous, dynamic and require intense and efficient research skills and preparation. The committee does not have a wide variety of delegations nor have formal debates over resolutions and is led in a different format. Therefore it is an interesting and fun committee to be a part of. Since the committee is extremely fast-paced, the delegates are required to be ready for immediate decision making and work for the definite defeat of the ideological enemy.</p>"
     },
     {
         "name": "International Court of Justice",
@@ -54,6 +36,24 @@
         "description": "<p style='font-size:24px;font-weight:700;'>Agenda Items:</p><p style='font-size:18px;'>1 - Russian-Ukrainian war's impact on oil sales and price.</p><p style='margin-top:24px;'>The Organisation of the Petroleum Exporting Countries (OPEC) is an organization enabling the co-operation of leading oil-producing countries in order to collectively influence the global oil market and maximize profit. It was founded on 14 September 1960 in Baghdad by the first five members (Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela). The 13 member countries account for an estimated 30 percent of global oil production and 80 percent of the world's proven oil reserves . Russian invasion of Ukraine left the world more economically divided than ever , on one side the western countries announcing sanctions against Russia and on the other side countries like China , India increasing their oil purchases.Biden announced a ban on oil from Russia, telling reporters, \"We're banning all imports of Russian oil and gas energy.Minister for Economic Affairs Robert Habeck cautioned, \"If we do not obtain more gas next winter and if deliveries from Russia were to be cut then we would not have enough gas to heat all our houses and keep all our industry going. In the first three months since the start of the invasion of Ukraine, Russia earned $24 billion from selling energy to China and India.About 20 percent of Russia's oil exports went to China, Russia's largest single buyer as of November 2021. In this years Karmun the delegates are going to be restoring the order in a broken alliance and making sure that this opposition won’t be the start of an international crises .Be prepared to participate in fierce debates that you can never forget.</p>"
     },
     {
+        "name": "UNSC",
+        "slug": "unsc",
+        "title": "UNSC",
+        "link": "/committee/unsc",
+        "image":"/home/committees/unsc.png",
+        "image_inside":"/home/committees-inside/unsc.jpeg",
+        "description": "<p style='font-size:24px;font-weight:700;'>Agenda Items:</p><p style='font-size:18px;'>1 - Yemeni Civil War.</p><p style='margin-top:24px;'>The United Nations Security Council (UNSC) is one of the six principal organs of the United Nations (UN) and is charged with ensuring international peace and security, recommending the admission of new UN members to the General Assembly, and approving any changes to the UN in charters powers include establishing peacekeeping operations, enacting international sanctions, and authorizing military action. The UNSC is the only UN body with the authority to issue binding resolutions on member The Yemeni Civil War is an ongoing multilateral civil war that began in late 2014 mainly between the Rashad al-Alimi-led Presidential Leadership Council and the Mahdi al-Mashat-led Supreme Political Council, along with their supporters and allies. Both claim to constitute the official In KARMUN'23 the delegates are going to be stepping in the shoes of Yemeni politicians by establishing their very own blocks. Do not expect anything less but a highly engaging and breathtaking debates.</p>"
+    },
+    {
+        "name": "AUGUST COUP",
+        "slug": "august-coup",
+        "title": "Cabinet August Coup",
+        "link": "/committee/august-coup",
+        "image":"/home/committees/coup.png",
+        "image_inside":"/home/committees-inside/coup.jpeg",
+        "description": "<p style='font-size:24px;font-weight:700;'>Open Agenda:</p><p style='margin-top:24px;'>The USSR turned into a boiling pot after Mikhail Gorbachev became the General Secretary of the CPSU, he started reformation efforts to move into a more democratic era, which angered many hardline communists. They opposed Gorbachev's reform program, were angry at the loss of control over Eastern European states, and were fearful of the USSR's New Union Treaty which was on the verge of being signed. It is now up to the officials of the USSR to decide the Soviet Unions' fate in KARMUN’23.</p>"
+    },
+    {
         "name": "Siege of Nagykanizsa",
         "slug": "nagykanizsa",
         "title": "Cabinet Siege of Nagykanizsa (1601)",
@@ -63,12 +63,12 @@
         "description": "<p style='font-size:24px;font-weight:700;'>Open Agenda:</p><p style='margin-top:24px;'>Nagykanizsa fell to Tiryaki Hasan Pasha in 1600, and the Ottoman Pasha took command of the fort with a garrison of 7,000 men. The captured town became the capital of Kanije Eyalet, an administrative unit of the Ottoman Empire that lasted until the empire's collapse at the end of the century. Kanije Eyalet combined the territory around Nagykanizsa with Zigetvar Eyalet, established in 1596 from parts of Bosnia and another province. This new Ottoman province was only twenty miles from the Austrian duchy of Styria and \"caused consternation at the imperial court and at the Holy See.\" Clement VIII decreed a third invasion of Hungary, this time under his nephew Gian Francesco Aldobrandini. The Ottoman army pulled most of its soldiers from the region after these conquests. Ferdinand II, commander of the Habsburg coalition army, saw an opportunity and laid siege to Nagykanizsa on 9 September 1601 with an army of 100,000 men, cutting all supply routes to the fortress. It is now up to the brave defenders to protect the banner of the Ottoman Empire in KARMUN’23.</p>"
     },
     {
-        "name": "UNSC",
-        "slug": "unsc",
-        "title": "UNSC",
-        "link": "/committee/unsc",
-        "image":"/home/committees/unsc.png",
-        "image_inside":"/home/committees-inside/unsc.jpeg",
-        "description": "<p style='font-size:24px;font-weight:700;'>Agenda Items:</p><p style='font-size:18px;'>1 - Yemeni Civil War.</p><p style='margin-top:24px;'>The United Nations Security Council (UNSC) is one of the six principal organs of the United Nations (UN) and is charged with ensuring international peace and security, recommending the admission of new UN members to the General Assembly, and approving any changes to the UN in charters powers include establishing peacekeeping operations, enacting international sanctions, and authorizing military action. The UNSC is the only UN body with the authority to issue binding resolutions on member The Yemeni Civil War is an ongoing multilateral civil war that began in late 2014 mainly between the Rashad al-Alimi-led Presidential Leadership Council and the Mahdi al-Mashat-led Supreme Political Council, along with their supporters and allies. Both claim to constitute the official In KARMUN'23 the delegates are going to be stepping in the shoes of Yemeni politicians by establishing their very own blocks. Do not expect anything less but a highly engaging and breathtaking debates.</p>"
+        "name": "Civil War",
+        "slug": "sw",
+        "title": "JCC",
+        "link": "/committee/sw",
+        "image":"/home/committees/sw.png",
+        "image_inside":"/home/committees-inside/sw.jpeg",
+        "description": "<p style='margin-top:24px;'>Joint Crisis Committees (more commonly known as JCC) are committees that are not your typical GA committee. They are intense, urgent, spontaneous, dynamic and require intense and efficient research skills and preparation. The committee does not have a wide variety of delegations nor have formal debates over resolutions and is led in a different format. Therefore it is an interesting and fun committee to be a part of. Since the committee is extremely fast-paced, the delegates are required to be ready for immediate decision making and work for the definite defeat of the ideological enemy.</p>"
     }
 ]
