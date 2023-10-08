@@ -11,7 +11,7 @@ export const ContactComponent = ({ height = '80vh' }) => {
                 <div className='flex flex-col mt-5'>
                     <div className='flex items-center'>
                         <IconPhone color='white' size={20} />
-                        <a href='tel:05555555555' className='ml-2 text-white'>0(555) 555 55 55</a>
+                        <a href='tel:05511494774' className='ml-2 text-white'>0(551) 149 47 74</a>
                     </div>
                     <div className='flex items-center mt-2'>
                         <IconMail color='white' size={20} />
